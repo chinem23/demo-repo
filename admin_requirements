@@ -1,0 +1,37 @@
+DATABASE ADMINISTRATOR
+
+Experience working in MS SQL Server 2005/2008/2008R2/2012/2014/2016, Managed Instance In production, Test, Development, Cluster and Cloud Environments.
+
+Experience in supporting Very Large Database (VLDB) and Data Warehouse setups.
+
+Solid experience on High availability (Always-On) SQL Server solutions, including
+Replication Models (Snapshot/Transactional), Mirroring, HADR Setup Configuration
+
+Experience in RDBMS database design, performance tuning, optimization, backup and
+recovery.
+
+Experience in Disaster Recovery Planning, Execution and Testing at remote site.
+
+Experience in using SQL Server Tools like Import/Export Wizard, SQL Server Enterprise Manager, SQL Profiler and SQL Query Analyzer.
+
+My primary responsibilities include performing migrations of project releases from development into testing, beta, and production environments. 
+
+Managing database user accounts. Maintaining the integrity of data in each environment. 
+
+Working in Windows and Linux server environments. 
+
+Assisted with a transition of all environment infrastructure from legacy systems into Amazon Web Services. 
+
+Applying quarterly patching of software. Installing and configuring ElasticSearch.
+
+
+LINUX ADMINISTRATOR
+
+Installed and Setup MySQL (Master and Slave) Server, Multiple MySQL Instance with different port.
+
+MySQL Database backup (Hot/Cold) and recovery, repair and optimize tables,
+MySQL Database security, creating users and managing permissions.
+
+Monitor Production Server Health of different parameters (System Load, Swap Memory, Hard disk, Apache requests, Mailq) via Nagios and CloudWatch.
+
+Scheduling jobs using crontab, Create SWAP Memory
