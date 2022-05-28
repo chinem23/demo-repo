@@ -35,3 +35,5 @@ MySQL Database security, creating users and managing permissions.
 Monitor Production Server Health of different parameters (System Load, Swap Memory, Hard disk, Apache requests, Mailq) via Nagios and CloudWatch.
 
 Scheduling jobs using crontab, Create SWAP Memory
+
+UPDATED NOTE!!
